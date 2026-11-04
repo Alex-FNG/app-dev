@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# The Lord of the Rings
+***The Lord of the Rings*** is a film trilogy that is based on novels with the same name, authored by **J. R. R. Tolkien**. 
+
+Set in the fictional world of **Middle-earth**, the films follow the hobbit **Frodo Baggins** as he and the *Company of the Ring* set out to destroy the **One Ring**, an artifact of great magical power, and defeat its maker, the **Dark Lord Sauron**. *The Company* eventually separates, and **Frodo** continues the quest with his loyal valet **Samwise Gamgee** and the treacherous **Gollum**. Meanwhile, **Aragorn**, heir in exile to the throne of *Gondor*, along with the elf **Legolas**, the dwarf **Gimli**, other hobbits **Meriadoc Brandybuck** and **Peregrin Took**, and the wizard **Gandalf**, unite to rally the *Free Peoples of **Middle-earth*** against the *forces of **Sauron***.
